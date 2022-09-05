@@ -1,0 +1,15 @@
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\bin\Debug\net6.0\My_Project3.exe
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\bin\Debug\net6.0\My_Project3.deps.json
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\bin\Debug\net6.0\My_Project3.runtimeconfig.json
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\bin\Debug\net6.0\My_Project3.dll
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\bin\Debug\net6.0\My_Project3.pdb
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\obj\Debug\net6.0\My_Project3.csproj.AssemblyReference.cache
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\obj\Debug\net6.0\My_Project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\obj\Debug\net6.0\My_Project3.AssemblyInfoInputs.cache
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\obj\Debug\net6.0\My_Project3.AssemblyInfo.cs
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\obj\Debug\net6.0\My_Project3.csproj.CoreCompileInputs.cache
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\obj\Debug\net6.0\My_Project3.dll
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\obj\Debug\net6.0\refint\My_Project3.dll
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\obj\Debug\net6.0\My_Project3.pdb
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\obj\Debug\net6.0\My_Project3.genruntimeconfig.cache
+C:\Users\STAS\Desktop\GB\C#\Seminar_1\Lesson_1\My_Project3\obj\Debug\net6.0\ref\My_Project3.dll
